@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { BarChart3, Megaphone, Zap, User } from 'lucide-react';
 import { DashboardLayout } from './layouts/DashboardLayout';
 import { CampaignsPage } from './pages/CampaignsPage';
